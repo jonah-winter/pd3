@@ -1,0 +1,14 @@
+Language: Cpp # actually c but it uses cpp for both filetypes
+BasedOnStyle: Google
+
+BreakBeforeBraces: Attach
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortBlocksOnASingleLine: Always
+
+SpaceBeforeParens: Never
+
+IndentPPDirectives: AfterHash
+PPIndentWidth: 4
